@@ -1,0 +1,85 @@
+#menu2{
+    position: fixed;
+    top:-2%;
+    left: -0.05%;
+    width: 17%;
+    height: 17%;
+   }
+    #eye12{
+       position: fixed;
+       top: 31.5%;
+       left: 58.5%;
+       height: 4.9%;
+       width:7% ;
+  }
+    #eye22{
+       position: fixed;
+       top: 29.4%;
+       left: 70.3%;
+       height: 8%;
+       width:5.8% ;
+  
+    }
+    #eye32{
+       position: fixed;
+       top: 30%;
+       left: 81.8%;
+       height: 6.5%;
+       width:5.5% ;
+ 
+    }
+    #nose12{
+       position: fixed;
+       top: 49.7%;
+       left: 59.4%;
+       height:10%;
+       width:7.8% ;
+ 
+    }
+    #nose22{
+       position: fixed;
+       top: 52.7%;
+       left: 71%;
+       height: 7%;
+       width:6.5% ;
+  
+    }
+    #nose32{
+       position: fixed;
+       top: 51.7%;
+       left: 83.3%;
+       height: 8.5%;
+       width:4% ;
+  
+    }
+    #mouse12{
+       position: fixed;
+       top: 78.7%;
+       left: 58.7%;
+       height: 6%;
+       width:6% ;
+ 
+    }
+    #mouse22{
+       position: fixed;
+       top: 78.6%;
+       left: 70%;
+       height: 6%;
+       width:7% ;
+  
+    }
+    #mouse32{
+       position: fixed;
+       top: 75%;
+       left: 79%;
+       height: 10%;
+       width:11% ;
+   }
+    #tocheking2{
+    position: fixed;
+    top:81%;
+     left: 36.5%; 
+     height: 19.2%;
+     width:13% ;
+    }
+    

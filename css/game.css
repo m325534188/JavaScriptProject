@@ -1,0 +1,171 @@
+body{
+   background-image: url(../img/2.jpg);
+   background-size: 100%;
+   }
+ 
+  #menu{
+   position: fixed;
+   top:-2%;
+   left: -0.05%;
+   width: 17%;
+   height: 17%;
+  }
+  #eye{
+   position: fixed;
+   width: 8%;
+   height: 10%;
+   top:49%;
+   left:19%;
+   background-size: 100%;
+  }
+  #nose{
+   position: fixed;
+   width: 4%;
+   height: 5%;
+   top:58%;
+   left:20.8%;
+   background-size: 100%;
+  }
+  #mouse{
+   position: fixed;
+   width: 9%;
+   height: 8%;
+   top:63%;
+   left:18.3%;
+   background-size: 100%;
+   }
+   #eye1{
+      position: fixed;
+      top: 31.5%;
+      left: 58.5%;
+      height: 4.9%;
+      width:7% ;
+ }
+   #eye2{
+      position: fixed;
+      top: 29.4%;
+      left: 70.3%;
+      height: 8%;
+      width:5.8% ;
+ 
+   }
+   #eye3{
+      position: fixed;
+      top: 30%;
+      left: 81.8%;
+      height: 6.5%;
+      width:5.5% ;
+
+   }
+   #nose1{
+      position: fixed;
+      top: 49.7%;
+      left: 59.4%;
+      height:10%;
+      width:7.8% ;
+
+   }
+   #nose2{
+      position: fixed;
+      top: 52.7%;
+      left: 71%;
+      height: 7%;
+      width:6.5% ;
+ 
+   }
+   #nose3{
+      position: fixed;
+      top: 51.7%;
+      left: 83.3%;
+      height: 8.5%;
+      width:4% ;
+ 
+   }
+   #mouse1{
+      position: fixed;
+      top: 78.7%;
+      left: 58.7%;
+      height: 6%;
+      width:6% ;
+
+   }
+   #mouse2{
+      position: fixed;
+      top: 78.6%;
+      left: 70%;
+      height: 6%;
+      width:7% ;
+ 
+   }
+   #mouse3{
+      position: fixed;
+      top: 75%;
+      left: 79%;
+      height: 10%;
+      width:11% ;
+  }
+   #tocheking{
+    position: fixed;
+    top:81%;
+    left: 37%; 
+    height: 18.2%;
+    width:12% ;
+
+   }
+   #result{
+   font-size:660%;
+   text-align: center;
+   font-family:'Beyond Infinity - Demo','Chiller','BernhardFashion BT';
+     /* font-family:'Yu Gothic Light','Bradley Hand ITC','BernhardFashion BT' ,'Segoe Script'; */
+   /* font-family: 'Candara Light'; */
+   width: 18%;
+   height:20%;
+   position: fixed;
+   top:23%;
+   left: 30%; 
+   }
+   #resultWin{
+      background-color: rgb(224, 172, 231);
+      width: 75%;
+      height:34.5%;
+      position: fixed;
+      top:20%;
+      left:10%;
+   }
+   #face{
+      height: 100%;
+      width: 20%;
+      float: right;
+      display: flex;
+      flex-direction: column;
+   }
+   #eyeWin{
+      margin-top: 10%;
+      width: 95%;
+      height: 30%;
+   }
+   #noseWin{
+      width: 30%;
+      height: 25%;
+      margin-left:35% ;
+    
+   }
+   #mouseWin{
+      width: 90%;
+      height: 23%;
+   }
+   #text{
+      float: right;
+      width: 35%;
+      font-family:'Beyond Infinity - Demo','Chiller','BernhardFashion BT';
+      font-size:350%;
+   }
+   #bt{
+      margin-left: 20%;
+      width: 60%;
+      height: 40%;
+      background-color: rgb(89, 163, 101);
+      font-size:50% ;
+   }
+
+   

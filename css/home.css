@@ -1,0 +1,23 @@
+body{
+    background-size: 100%;
+}
+div{
+    width: 28%;
+    height:40%;
+}
+#to-game{
+    position: fixed;
+    bottom:14%;
+     right: 3%;
+}
+#cake{
+    position: fixed;
+    bottom:14%;
+     right:45%;
+}
+#memory{
+    position: fixed;
+    bottom:35%;
+     left: 5%;
+     width: 18%;
+}
